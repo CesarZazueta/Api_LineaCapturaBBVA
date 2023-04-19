@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_Linea de captura_BBVA.props" />
+</Project>

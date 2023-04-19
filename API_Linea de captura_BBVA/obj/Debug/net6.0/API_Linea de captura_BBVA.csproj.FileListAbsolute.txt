@@ -1,0 +1,31 @@
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\bin\Debug\net6.0\appsettings.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\bin\Debug\net6.0\API_Linea de captura_BBVA.staticwebassets.runtime.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\bin\Debug\net6.0\API_Linea de captura_BBVA.exe
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\bin\Debug\net6.0\API_Linea de captura_BBVA.deps.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\bin\Debug\net6.0\API_Linea de captura_BBVA.runtimeconfig.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\bin\Debug\net6.0\API_Linea de captura_BBVA.dll
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\bin\Debug\net6.0\API_Linea de captura_BBVA.pdb
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.csproj.AssemblyReference.cache
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.AssemblyInfoInputs.cache
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.AssemblyInfo.cs
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.RazorAssemblyInfo.cache
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.RazorAssemblyInfo.cs
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\staticwebassets\msbuild.API_Linea de captura_BBVA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\staticwebassets\msbuild.build.API_Linea de captura_BBVA.props
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Linea de captura_BBVA.props
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_Linea de captura_BBVA.props
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\scopedcss\bundle\API_Linea de captura_BBVA.styles.css
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\scopedcss\projectbundle\API_Linea de captura_BBVA.bundle.scp.css
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.dll
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\refint\API_Linea de captura_BBVA.dll
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.pdb
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\API_Linea de captura_BBVA.genruntimeconfig.cache
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Debug\net6.0\ref\API_Linea de captura_BBVA.dll

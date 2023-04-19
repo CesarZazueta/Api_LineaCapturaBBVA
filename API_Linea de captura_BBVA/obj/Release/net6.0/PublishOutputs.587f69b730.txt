@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Release\net6.0\PubTmp\Out\API_Linea de captura_BBVA.exe
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Release\net6.0\PubTmp\Out\API_Linea de captura_BBVA.dll
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Release\net6.0\PubTmp\Out\API_Linea de captura_BBVA.deps.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Release\net6.0\PubTmp\Out\API_Linea de captura_BBVA.runtimeconfig.json
+C:\Users\Cesar\source\repos\BBVA linea de captura 2\API_Linea de captura_BBVA\API_Linea de captura_BBVA\obj\Release\net6.0\PubTmp\Out\API_Linea de captura_BBVA.pdb

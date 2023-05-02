@@ -8,21 +8,21 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <EncryptedPassword>
     </EncryptedPassword>
     <_PublishTargetUrl>ftp://198.37.116.26/www.LineaCapturaBBVA.somee.com</_PublishTargetUrl>
-    <History>True|2023-04-14T04:22:41.5177979Z;True|2023-04-09T22:45:33.9827068-07:00;False|2023-04-09T22:40:17.7127118-07:00;</History>
+    <History>True|2023-04-25T06:57:41.0224088Z;True|2023-04-24T21:44:40.1120719-07:00;False|2023-04-24T21:39:06.4059817-07:00;True|2023-04-24T16:46:41.6029247-07:00;True|2023-04-13T21:22:41.5177979-07:00;True|2023-04-09T22:45:33.9827068-07:00;False|2023-04-09T22:40:17.7127118-07:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="API_Linea de captura_BBVA.deps.json">
-      <publishTime>04/13/2023 21:19:47</publishTime>
+      <publishTime>04/24/2023 23:54:48</publishTime>
     </File>
     <File Include="API_Linea de captura_BBVA.dll">
-      <publishTime>04/13/2023 21:17:05</publishTime>
+      <publishTime>04/24/2023 23:53:25</publishTime>
     </File>
     <File Include="API_Linea de captura_BBVA.exe">
-      <publishTime>04/13/2023 21:17:05</publishTime>
+      <publishTime>04/24/2023 23:53:25</publishTime>
     </File>
     <File Include="API_Linea de captura_BBVA.pdb">
-      <publishTime>04/13/2023 21:17:05</publishTime>
+      <publishTime>04/24/2023 23:53:25</publishTime>
     </File>
     <File Include="API_Linea de captura_BBVA.runtimeconfig.json">
       <publishTime>04/09/2023 22:40:07</publishTime>
@@ -34,7 +34,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/09/2023 18:29:18</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>04/13/2023 21:19:47</publishTime>
+      <publishTime>04/24/2023 23:54:48</publishTime>
     </File>
     <File Include="wwwroot/API_Linea de captura_BBVA.styles.css">
       <publishTime>04/09/2023 22:40:06</publishTime>

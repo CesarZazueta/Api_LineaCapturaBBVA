@@ -1,8 +1,13 @@
+using MySqlConnector;
+using Microsoft.AspNetCore.HttpOverrides;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container
 
 builder.Services.AddControllersWithViews();
+
+
 
 builder.Services.AddCors(options =>
 {
@@ -11,6 +16,8 @@ builder.Services.AddCors(options =>
         app.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
     });
 });
+
+
 
 var app = builder.Build();
 

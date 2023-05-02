@@ -1,6 +1,7 @@
 ﻿using API_Linea_de_captura_BBVA.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Net;
 
 namespace API_Linea_de_captura_BBVA.Controllers
 {
@@ -14,9 +15,11 @@ namespace API_Linea_de_captura_BBVA.Controllers
         }
 
         public IActionResult Index()
-        {
+        { 
             return View();
         }
+
+
 
         public IActionResult Privacy()
         {
